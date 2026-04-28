@@ -8,3 +8,5 @@ Bilding autonomous agents capable to generate income for human
 
 
 for generating long term wealth.
+
+and compounding it smartly 
