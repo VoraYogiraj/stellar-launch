@@ -7,4 +7,4 @@ Generqate 7 figure income in 7 Months
 Bilding autonomous agents capable to generate income for human 
 
 
-for generating long term wealth 
+for generating long term wealth.
